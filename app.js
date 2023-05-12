@@ -13,7 +13,7 @@ if (process.env.NODE_ENV !== 'production') {
 
 const routes = require('./routes')
 const app = express()
-const PORT = process.env.SESSION_SECRET
+const PORT = process.env.PORT
 
 app.engine('hbs', exphbs({ defaultLayout: 'main', extname: '.hbs' }))
 app.set('view engine', 'hbs')
