@@ -4,7 +4,7 @@
 [Demo Website](http://localhost:3001/)
 
 ## 專案畫面
-![image](img/截圖 2023-05-12 下午8.25.21.png)
+![image](https://github.com/WeiWayne1030/todolistSequelize/blob/1316a190dec2e27c6c41f4588c1a63fe6f422949/img/%E6%88%AA%E5%9C%96%202023-05-12%20%E4%B8%8B%E5%8D%888.25.21.png)
 
 
 ## Features - 產品功能
